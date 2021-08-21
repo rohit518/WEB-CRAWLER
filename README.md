@@ -7,7 +7,7 @@ TEXT data in the homepage of any website by taking an url as the user input.
 The crawler again crawls all the gathered urls.This is a 2-level crawling.
 
 After crawling all the relevant links and 
-paragraphs and storing them in different files.
+paragraphs it stores them in different files.
 
 
 
